@@ -9,9 +9,14 @@ Open [my_code.py](src/my_code.py) and write a program that prompts the user for 
 * Print the letters in brief messages on separate lines, using a single print statement
 
 #### Example
-```buildoutcfg
-User input: python
+
+Input: 
+```
+python
+```
+
 Output: 
+```
 The first letter you entered was P.
 The last letter you entered was N.
 ```

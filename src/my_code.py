@@ -1,10 +1,6 @@
-def main(x):
-    return x*2
-
-
-if __name__ == '__main__': 
-    main(5)
-
-
-
-
+#############################
+# Collaborators: (enter people or resources who/that helped you)
+# If none, write none
+#
+#
+#############################

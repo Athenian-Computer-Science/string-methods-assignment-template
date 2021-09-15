@@ -7,6 +7,7 @@ Open [my_code.py](src/my_code.py) and write a program that prompts the user for 
 * Determine first and last letters (spaces don't count!)
 * Capitalize the letters (can be done before or inside print statement)
 * Print the letters in brief messages on separate lines, using a single print statement
+* In another print statement, write a message using the user's input, but replacing a character with another.
 
 #### Example
 
@@ -19,6 +20,7 @@ Output:
 ```
 The first letter you entered was P.
 The last letter you entered was N.
+I think you meant to type pychon!
 ```
 
 #### Submission instructions
